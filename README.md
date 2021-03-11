@@ -1,2 +1,2 @@
 # FastDFS
-基于SpingBoot的FastDFS整合
+基于SpringBoot的FastDFS整合

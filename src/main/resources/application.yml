@@ -1,0 +1,14 @@
+# fastDFS配置
+#注意：trackerList如果是集群tracker的话以逗号分隔开就行
+fdfs:
+  connect-timeout:  600
+  so-timeout: 1500
+  trackerList: 139.9.119.104:22122
+  thumb-image:
+    width: 150
+    height: 150
+  pool:
+    max-total: 200
+
+swagger:
+  enable: true
